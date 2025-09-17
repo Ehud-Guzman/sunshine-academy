@@ -1,0 +1,50 @@
+﻿{
+  "basic": {
+    "price": 15000,
+    "features": {
+      "hero": { "enabled": true },
+      "about": { "enabled": true },
+      "academics": { "enabled": true },
+      "admissions": { "enabled": false },
+      "events": { "enabled": false },
+      "staff": { "enabled": false },
+      "gallery": { "enabled": false },
+      "testimonials": { "enabled": false },
+      "news": { "enabled": false },
+      "contact": { "enabled": true },
+      "virtualTour": { "enabled": false }
+    }
+  },
+  "standard": {
+    "price": 25000,
+    "features": {
+      "hero": { "enabled": true },
+      "about": { "enabled": true },
+      "academics": { "enabled": true },
+      "admissions": { "enabled": true },
+      "events": { "enabled": true },
+      "staff": { "enabled": true },
+      "gallery": { "enabled": false },
+      "testimonials": { "enabled": false },
+      "news": { "enabled": true },
+      "contact": { "enabled": true },
+      "virtualTour": { "enabled": false }
+    }
+  },
+  "premium": {
+    "price": 40000,
+    "features": {
+      "hero": { "enabled": true },
+      "about": { "enabled": true },
+      "academics": { "enabled": true },
+      "admissions": { "enabled": true },
+      "events": { "enabled": true },
+      "staff": { "enabled": true },
+      "gallery": { "enabled": true },
+      "testimonials": { "enabled": true },
+      "news": { "enabled": true },
+      "contact": { "enabled": true },
+      "virtualTour": { "enabled": true }
+    }
+  }
+}
