@@ -56,12 +56,7 @@ export default function Home() {
           </section>
         )}
 
-        {/* Latest News */}
-        {f.news?.enabled && (
-          <section className="py-16 md:py-0 bg-white">
-            <News />
-          </section>
-        )}
+       
       </main>
 
       {/* Footer */}
