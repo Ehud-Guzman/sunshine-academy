@@ -7,7 +7,7 @@ export default function CommunitySpotlight() {
       id: 1,
       name: "Parent-Teacher Association",
       description: "Our active PTA organizes events and supports school initiatives throughout the year.",
-      image: "/images/community/pta.jpg",
+      image: "/images/community/Community outreach.jpg",
       link: "/pta"
     },
     {
@@ -21,7 +21,7 @@ export default function CommunitySpotlight() {
       id: 3,
       name: "Community Outreach",
       description: "Our students participate in various community service projects and initiatives.",
-      image: "/images/community/outreach.jpg",
+      image: "/images/community/Community outreach.jpg",
       link: "/outreach"
     }
   ];

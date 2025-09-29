@@ -25,13 +25,13 @@ export const galleryData = [
     description: "Our well-stocked library encourages a love for reading from an early age"
   },
   { 
-    src: "/images/staff/mwangi.jpg", 
+    src: "/images/staff/Mr-Mwangi.jpg", 
     alt: "Head Teacher Mr. Mwangi in his office",
     category: "staff",
     description: "Mr. Mwangi, our dedicated Head Teacher with over 20 years of experience"
   },
   { 
-    src: "/images/staff/adhiambo.jpg", 
+    src: "/images/staff/Mrs-Adhiambo.jpg", 
     alt: "Math Teacher Mrs. Adhiambo teaching",
     category: "staff",
     description: "Mrs. Adhiambo making mathematics fun and engaging for students"
@@ -67,11 +67,19 @@ export const galleryData = [
     description: "Bright and engaging classroom environment for effective learning"
   },
   { 
-    src: "/images/gallery/event-1.jpg", 
-    alt: "Annual sports day event",
-    category: "events",
-    description: "Students participating in our annual inter-house sports competition"
-  }
+      src: "/images/gallery/event-1.jpg", 
+      alt: "Annual sports day event",
+      category: "events",
+      description: "Students participating in our annual inter-house sports competition"
+  },
+  
+{
+  src: "images/events/games.jpeg", 
+      alt: "Annual sports day event",
+      category: "events",
+      description: "Students participating in our annual inter-house sports competition"
+}
+  
 ];
 
 export const categories = [

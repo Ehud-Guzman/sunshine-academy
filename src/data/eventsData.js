@@ -9,7 +9,7 @@ export const eventsData = [
     description:
       "Students showcase their innovative science projects. Parents and community members are welcome.",
     image:
-      "https://images.unsplash.com/photo-1582719471384-894e3b4d2e3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      "images/events/retro-science.jpg",
     category: "Academic",
   },
   {
@@ -21,7 +21,7 @@ export const eventsData = [
     description:
       "Annual inter-house sports competition featuring track events, football, and traditional games.",
     image:
-      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      "images/events/games.jpeg",
     category: "Sports",
   },
   { 
@@ -31,7 +31,7 @@ export const eventsData = [
     time: "2:00 PM - 5:00 PM",
     location: "Classrooms",
     description: "Opportunity for parents to discuss their children's progress with teachers.",
-    image: "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    image: "/images/events/meeting.jpg",
     category: "Academic"
   },
   { 
@@ -41,17 +41,17 @@ export const eventsData = [
     time: "10:00 AM - 3:00 PM",
     location: "School Hall",
     description: "Celebration of Kenya's diverse cultures with traditional dress, food, music and dance performances.",
-    image: "https://images.unsplash.com/photo-1544531585-9847b68c8c87?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    image: "/images/events/cultural day.jpg",
     category: "Cultural"
   },
   { 
     id: 5,
-    title: "Math Olympiad Competition", 
+    title: "Mathematics Competition", 
     date: "2025-07-15",
     time: "8:30 AM - 12:30 PM",
-    location: "Mathematics Lab",
+    location: "Main Hall",
     description: "Inter-school mathematics competition for standards 6-8.",
-    image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    image: "images/events/mathss.jpg",
     category: "Academic"
   },
   { 
@@ -61,7 +61,7 @@ export const eventsData = [
     time: "10:00 AM - 1:00 PM",
     location: "School Compound",
     description: "Environmental conservation activity where each student plants a tree on the school grounds.",
-    image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    image: "images/events/tree-planting.jpg",
     category: "Environmental"
   }
 ];
