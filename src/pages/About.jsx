@@ -107,19 +107,19 @@ function LeadershipTeam() {
       name: "Dr. Wanjiku Mbeki",
       position: "Principal & Director",
       bio: "With over 25 years in education leadership, Dr. Mbeki holds a Ph.D. in Educational Management and has transformed Sunshine Primary into a model international school.",
-      image: "/images/leadership/principal.jpg"
+      image: "/images/leadership/mercy.jpg"
     },
     {
       name: "Mr. James Ochieng",
       position: "Academic Dean",
       bio: "Mr. Ochieng brings expertise in curriculum development with international experience from schools in the UK and South Africa.",
-      image: "/images/leadership/dean.jpg"
+      image: "/images/leadership/Mr-Mwangi.jpg"
     },
     {
       name: "Mrs. Amina Said",
       position: "Student Affairs Director",
       bio: "Mrs. Said specializes in holistic student development and has implemented innovative wellbeing programs praised by educational organizations.",
-      image: "/images/leadership/affairs.jpg"
+      image: "/images/leadership/sophie.jpg"
     }
   ];
 
@@ -202,17 +202,17 @@ export default function About() {
           {
             title: "Experienced International Faculty",
             description: "Our educators bring global experience with advanced degrees from prestigious institutions worldwide.",
-            img: "/images/about/faculty.jpg",
+            img: "/images/about/campus-1.jpg",
           },
           {
             title: "World-Class Facilities",
             description: "State-of-the-art classrooms, science labs, sports facilities, and creative arts spaces designed for 21st-century learning.",
-            img: "/images/about/facilities.jpg",
+            img: "/images/about/campus-4.webp",
           },
           {
             title: "Holistic Development Program",
             description: "Integrated approach focusing on academics, arts, athletics, and character development for balanced growth.",
-            img: "/images/about/holistic.jpg",
+            img: "/images/about/development.jpg",
           },
         ]}
       />

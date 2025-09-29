@@ -64,7 +64,7 @@ export default function News() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
         >
-          <h2 className="text-4xl font-bold text-gray-800 mb-4">School News & Updates</h2>
+          <h2 className="text-4xl font-bold text-gray-800  mb-4">School News & Updates</h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
             Stay informed about the latest events, achievements, and developments at Sunshine Primary
           </p>
