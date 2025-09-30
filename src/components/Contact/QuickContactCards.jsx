@@ -13,14 +13,14 @@ export default function QuickContactCards() {
     {
       title: "General Inquiries",
       description: "For general questions and information",
-      phone: "++254 746 527 253",
+      phone: "+254 746 527 253",
       email: "info@sunshineprimary.ac.ke",
       icon: "🏫"
     },
     {
       title: "Student Affairs",
       description: "For student-related matters and support",
-      phone: "++254 746 527 253",
+      phone: "+254 746 527 253",
       email: "students@sunshineprimary.ac.ke",
       icon: "👨‍🎓"
     }
