@@ -6,21 +6,21 @@ export default function QuickContactCards() {
     {
       title: "Admissions Office",
       description: "For enrollment inquiries and school tours",
-      phone: "+254 700 123 456",
+      phone: "+254 746 527 253",
       email: "admissions@sunshineprimary.ac.ke",
       icon: "🎓"
     },
     {
       title: "General Inquiries",
       description: "For general questions and information",
-      phone: "+254 720 987 654",
+      phone: "++254 746 527 253",
       email: "info@sunshineprimary.ac.ke",
       icon: "🏫"
     },
     {
       title: "Student Affairs",
       description: "For student-related matters and support",
-      phone: "+254 711 456 789",
+      phone: "++254 746 527 253",
       email: "students@sunshineprimary.ac.ke",
       icon: "👨‍🎓"
     }

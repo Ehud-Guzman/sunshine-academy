@@ -31,7 +31,7 @@ export const teachersData = [
     image: "/images/testimonials/sophie.jpg",
     achievements: ["Led Football Team to County Finals", "National Primary Games Coach Award"],
     email: "kamau@schoolname.ac.ke",
-    phone: "+254 734 567 890"
+    phone: "+254 746 527 253"
   },
   {
     id: 4,
@@ -53,7 +53,7 @@ export const teachersData = [
     image: "/images/staff/mwangi.jpg",
     achievements: ["Education Leadership Award 2020", "20+ Years in Education"],
     email: "mwangi@schoolname.ac.ke",
-    phone: "+254 756 789 012"
+    phone: "+254 746 527 253"
   },
   {
     id: 6,

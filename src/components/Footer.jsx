@@ -116,7 +116,7 @@ export default function Footer() {
           </a>{" "}
           <span className="mx-2">|</span>
           <a
-            href="tel:+254746527253"
+            href="tel:+254 746 527 253"
             className="hover:text-white transition-all duration-300 flex items-center"
           >
             <FaPhoneAlt className="mr-1" /> +254 746 527 253
